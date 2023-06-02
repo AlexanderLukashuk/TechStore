@@ -1,4 +1,5 @@
 ﻿using System;
+using TechStoreLibrary.Models.Data;
 using TechStoreLibrary.Models.Entities;
 
 namespace TechStoreLibrary.Models.Repo

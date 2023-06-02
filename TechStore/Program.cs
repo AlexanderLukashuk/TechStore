@@ -1,7 +1,17 @@
-﻿var builder = WebApplication.CreateBuilder(args);
+﻿using Microsoft.EntityFrameworkCore;
+using TechStoreLibrary.Models.Data;
+using TechStoreLibrary.Models.Repo;
+
+var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<DBContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("TechStoreWebsite")
+    ?? throw new InvalidOperationException("Connection string \"TechStoreWebsite\" not found."),
+    optionsBuilder => optionsBuilder.MigrationsAssembly("TechStore")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped<IRepository, EFRepository>();
 
 var app = builder.Build();
 

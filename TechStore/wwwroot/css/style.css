@@ -364,8 +364,7 @@ ul.btn {
 .header {
     width: 100%;
     padding: 30px 30px;
-    background: transparent;
-/*    position: absolute;*/
+    background: url(../images/banner.jpg);
     z-index: 999;
 }
 
@@ -381,6 +380,7 @@ ul.btn {
 /** banner section **/
 
 .banner_main {
+/*    display: flex;*/
     background: url(../images/banner.jpg);
     background-repeat: no-repeat;
     min-height: 900px;
@@ -389,7 +389,7 @@ ul.btn {
     justify-content: center;
     align-content: center;
     align-items: center;
-    position: relative;
+/*    position: relative;*/
 }
 
     .banner_main::before {
@@ -566,6 +566,7 @@ ul.btn {
 .three_box {
     background-color: #fff;
     padding-top: 90px;
+    display: flex;
 }
 
 .box_text {
@@ -602,6 +603,7 @@ ul.btn {
 /** products section **/
 
 .products {
+    display: flex;
     margin-top: 90px;
     background: #f7f7f7;
     padding: 90px 0 90px 0;
@@ -666,6 +668,7 @@ ul.btn {
 /** laptop  section **/
 
 .laptop {
+    display: flex;
     font-family: 'Dosis', sans-serif;
     padding: 130px 0;
     background-color: #4f4aa6;
@@ -786,10 +789,13 @@ ul.btn {
 /** contact section **/
 
 .contact {
+    display: flex;
     background: url(../images/contact_g.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    padding: 90px 0;
+    padding-bottom: 32%;
+    padding-top: 5%;
+/*    padding: 90px 0;*/
 }
 
     .contact .titlepage h2 {
@@ -862,10 +868,12 @@ ul.btn {
 /** footer **/
 
 .footer {
+    display: flex;
     background: url(../images/footer.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding-top: 115px;
+/*    margin-top: 200px;*/
     text-align: center;
 }
 

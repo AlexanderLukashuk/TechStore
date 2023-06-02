@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/TechStore.bundle.scp.css"
     },
     {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/css/responsive.css",
       "PackagePath": "staticwebassets/css/responsive.css"
     },
@@ -19,6 +23,110 @@
     {
       "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/about.jpg",
+      "PackagePath": "staticwebassets/images/about.jpg"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/banner.jpg",
+      "PackagePath": "staticwebassets/images/banner.jpg"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/bg.jpg",
+      "PackagePath": "staticwebassets/images/bg.jpg"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/contact_g.jpg",
+      "PackagePath": "staticwebassets/images/contact_g.jpg"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/cos.png",
+      "PackagePath": "staticwebassets/images/cos.png"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/cross.png",
+      "PackagePath": "staticwebassets/images/cross.png"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/footer.jpg",
+      "PackagePath": "staticwebassets/images/footer.jpg"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/leptop.jpg",
+      "PackagePath": "staticwebassets/images/leptop.jpg"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/loading.gif",
+      "PackagePath": "staticwebassets/images/loading.gif"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/logo.png",
+      "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/logo1.png",
+      "PackagePath": "staticwebassets/images/logo1.png"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/menu_icon.png",
+      "PackagePath": "staticwebassets/images/menu_icon.png"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/pc.png",
+      "PackagePath": "staticwebassets/images/pc.png"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/pct.png",
+      "PackagePath": "staticwebassets/images/pct.png"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/product1.png",
+      "PackagePath": "staticwebassets/images/product1.png"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/product2.png",
+      "PackagePath": "staticwebassets/images/product2.png"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/product3.png",
+      "PackagePath": "staticwebassets/images/product3.png"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/product4.png",
+      "PackagePath": "staticwebassets/images/product4.png"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/product5.png",
+      "PackagePath": "staticwebassets/images/product5.png"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/product6.png",
+      "PackagePath": "staticwebassets/images/product6.png"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/product7.png",
+      "PackagePath": "staticwebassets/images/product7.png"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/product8.png",
+      "PackagePath": "staticwebassets/images/product8.png"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/product9.png",
+      "PackagePath": "staticwebassets/images/product9.png"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/thr.png",
+      "PackagePath": "staticwebassets/images/thr.png"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/thr1.png",
+      "PackagePath": "staticwebassets/images/thr1.png"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/thr2.png",
+      "PackagePath": "staticwebassets/images/thr2.png"
     },
     {
       "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/js/site.js",

@@ -1,4 +1,36 @@
 ﻿<Properties StartupConfiguration="{DA60142B-57DF-48B7-9AED-02D387FBD643}|https">
-  <MonoDevelop.Ide.ItemProperties.TechStore FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TechStore/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="TechStore/Views/Shared/_Layout.cshtml" Line="96" Column="15" />
+      <File FileName="TechStore/wwwroot/css/style.css" Line="367" Column="43" />
+      <File FileName="TechStore/wwwroot/css/responsive.css" Line="267" Column="6" />
+      <File FileName="TechStore/Views/Home/Index.cshtml" Line="11" Column="30" />
+      <File FileName="TechStore/wwwroot/css/site.css" Line="22" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TechStore" expanded="True">
+            <Node name="TechStore" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TechStore PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TechStoreLibrary FirstBuild="True" />
 </Properties>

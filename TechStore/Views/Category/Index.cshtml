@@ -1,0 +1,26 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model List<Category> // Replace "Category" with the name of your Category model class
+
+@{
+    ViewBag.Title = "Categories";
+}
+
+<h2>All Categories</h2>
+
+<ul>
+    @foreach (var category in Model)
+    {
+        <li>
+            <form action="/Category/Details" method="get" class="details-form">
+                @Html.AntiForgeryToken()
+                <input type="hidden" name="id" value="@category.Id" />
+                <h3>@Html.ActionLink(category.Name, "Details", new { id = category.Id })</h3>
+            </form>
+        </li>
+    }
+</ul>

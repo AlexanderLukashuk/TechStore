@@ -229,8 +229,11 @@
                                 <h3>Drive</h3>
                             </div>
                         </div>
-                        <div class="col-md-12">
+                        @*<div class="col-md-12">
                             <a class="read_more" href="#">See More</a>
+                        </div>*@
+                        <div class="col-md-12">
+                            @Html.ActionLink("See More", "Index", "Category", null, new { @class = "read_more" })
                         </div>
                     </div>
                 </div>

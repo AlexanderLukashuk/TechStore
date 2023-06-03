@@ -1,24 +1,26 @@
 ﻿<Properties StartupConfiguration="{DA60142B-57DF-48B7-9AED-02D387FBD643}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TechStore/Views/Category/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TechStore/Program.cs">
     <Files>
       <File FileName="TechStore/Views/Shared/_Layout.cshtml" />
       <File FileName="TechStore/wwwroot/css/style.css" />
       <File FileName="TechStore/wwwroot/css/responsive.css" />
-      <File FileName="TechStore/Views/Home/Index.cshtml" Line="234" Column="25" />
+      <File FileName="TechStore/Views/Home/Index.cshtml" />
       <File FileName="TechStore/wwwroot/css/site.css" />
       <File FileName="TechStoreLibrary/Class1.cs" />
       <File FileName="TechStoreLibrary/Models/Entities/Product.cs" />
       <File FileName="TechStoreLibrary/Models/Entities/Category.cs" Line="7" Column="36" />
       <File FileName="TechStore/Controllers/HomeController.cs" />
-      <File FileName="TechStoreLibrary/Models/Repo/IRepository.cs" />
-      <File FileName="TechStoreLibrary/Models/Repo/EFRepository.cs" />
+      <File FileName="TechStoreLibrary/Models/Repo/IRepository.cs" Line="1" Column="1" />
+      <File FileName="TechStoreLibrary/Models/Repo/EFRepository.cs" Line="1" Column="1" />
       <File FileName="TechStoreLibrary/Models/Data/DBContext.cs" />
-      <File FileName="TechStore/Program.cs" Line="9" Column="67" />
-      <File FileName="TechStore/appsettings.json" />
-      <File FileName="TechStore/Controllers/CategoryController.cs" />
-      <File FileName="TechStore/Views/Category/Index.cshtml" Line="7" Column="61" />
-      <File FileName="TechStore/Models/Data/SeedData.cs" Line="41" Column="14" />
+      <File FileName="TechStore/Program.cs" Line="19" Column="31" />
+      <File FileName="TechStore/appsettings.json" Line="10" Column="73" />
+      <File FileName="TechStore/Controllers/CategoryController.cs" Line="21" Column="1" />
+      <File FileName="TechStore/Views/Category/Index.cshtml" Line="13" Column="13" />
+      <File FileName="TechStore/Models/Data/SeedData.cs" Line="30" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -26,6 +28,7 @@
           <Node name="TechStore" expanded="True">
             <Node name="TechStore" expanded="True">
               <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
               <Node name="Models" expanded="True">
                 <Node name="Data" expanded="True" />
               </Node>
@@ -50,10 +53,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.TechStore PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets/.DS_Store"
     },
     {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/css/category.css",
+      "PackagePath": "staticwebassets/css/category.css"
+    },
+    {
       "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/css/responsive.css",
       "PackagePath": "staticwebassets/css/responsive.css"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RUILbBhXQHfnbA96qnRyQ3zI1p4l94yu6m8slM2PJsI=",
+  "Hash": "9b0CzLKKCt62TqvwvKJsHkB+QlA46y3q5N/kxwCeKRo=",
   "Source": "TechStore",
   "BasePath": "_content/TechStore",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
+    {
+      "Identity": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/css/category.css",
+      "SourceId": "TechStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/",
+      "BasePath": "_content/TechStore",
+      "RelativePath": "css/category.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/category.css"
     },
     {
       "Identity": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/css/responsive.css",

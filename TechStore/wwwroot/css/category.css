@@ -1,0 +1,21 @@
+﻿.category-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    list-style-type: none;
+    margin: 1% 2% 30% 2%;
+}
+
+    .category-grid li {
+        border: 1px solid #ccc;
+        padding: 20px;
+    }
+
+    .category-grid h3 {
+        margin: 0;
+    }
+
+.section-title {
+    margin-top: 2%;
+    text-align: center;
+}

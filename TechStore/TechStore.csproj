@@ -14,10 +14,15 @@
   <ItemGroup>
     <Folder Include="wwwroot\images\" />
     <Folder Include="Views\Category\" />
+    <Folder Include="Models\Data\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.5" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.5">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TechStoreLibrary\TechStoreLibrary.csproj">
@@ -26,5 +31,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Remove="Views\Category\" />
+    <None Remove="Models\Data\" />
   </ItemGroup>
 </Project>

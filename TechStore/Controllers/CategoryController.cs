@@ -17,7 +17,7 @@ namespace TechStore.Controllers
 			_dBContext = context;
 		}
 
-		[Route("/Categories")]
+		//[Route("/Category")]
 		public IActionResult Index() => View(_repository.Categories);
 	}
 }

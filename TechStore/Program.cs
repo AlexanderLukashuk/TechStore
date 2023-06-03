@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using TechStore.Models.Data;
 using TechStoreLibrary.Models.Data;
 using TechStoreLibrary.Models.Repo;
 
@@ -15,6 +16,8 @@ builder.Services.AddScoped<IRepository, EFRepository>();
 
 var app = builder.Build();
 
+SeedData.EnsurePopulated(app);
+
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
@@ -29,6 +32,12 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
+app.MapGet("/", (HttpContext context) =>
+{
+    context.Response.Redirect("/Home");
+    return Task.CompletedTask;
+});
 
 app.MapControllerRoute(
     name: "default",

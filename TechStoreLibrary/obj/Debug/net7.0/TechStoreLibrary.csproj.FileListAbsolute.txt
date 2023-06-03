@@ -1,0 +1,12 @@
+/Users/aleksandrlukasuk/Projects/TechStore/TechStoreLibrary/bin/Debug/net7.0/TechStoreLibrary.deps.json
+/Users/aleksandrlukasuk/Projects/TechStore/TechStoreLibrary/bin/Debug/net7.0/TechStoreLibrary.dll
+/Users/aleksandrlukasuk/Projects/TechStore/TechStoreLibrary/bin/Debug/net7.0/TechStoreLibrary.pdb
+/Users/aleksandrlukasuk/Projects/TechStore/TechStoreLibrary/obj/Debug/net7.0/TechStoreLibrary.csproj.AssemblyReference.cache
+/Users/aleksandrlukasuk/Projects/TechStore/TechStoreLibrary/obj/Debug/net7.0/TechStoreLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrlukasuk/Projects/TechStore/TechStoreLibrary/obj/Debug/net7.0/TechStoreLibrary.AssemblyInfoInputs.cache
+/Users/aleksandrlukasuk/Projects/TechStore/TechStoreLibrary/obj/Debug/net7.0/TechStoreLibrary.AssemblyInfo.cs
+/Users/aleksandrlukasuk/Projects/TechStore/TechStoreLibrary/obj/Debug/net7.0/TechStoreLibrary.csproj.CoreCompileInputs.cache
+/Users/aleksandrlukasuk/Projects/TechStore/TechStoreLibrary/obj/Debug/net7.0/TechStoreLibrary.dll
+/Users/aleksandrlukasuk/Projects/TechStore/TechStoreLibrary/obj/Debug/net7.0/refint/TechStoreLibrary.dll
+/Users/aleksandrlukasuk/Projects/TechStore/TechStoreLibrary/obj/Debug/net7.0/TechStoreLibrary.pdb
+/Users/aleksandrlukasuk/Projects/TechStore/TechStoreLibrary/obj/Debug/net7.0/ref/TechStoreLibrary.dll

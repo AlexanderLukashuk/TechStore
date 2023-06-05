@@ -19,3 +19,15 @@
     margin-top: 2%;
     text-align: center;
 }
+
+.product-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    margin: 1% 2% 30% 2%;
+}
+
+.product-item img {
+    max-width: 100%;
+    height: auto;
+}

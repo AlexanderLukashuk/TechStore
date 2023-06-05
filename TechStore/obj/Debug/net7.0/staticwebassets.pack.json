@@ -29,6 +29,30 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/CategoryPage/.DS_Store",
+      "PackagePath": "staticwebassets/images/CategoryPage/.DS_Store"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/CategoryPage/accessories.jpeg",
+      "PackagePath": "staticwebassets/images/CategoryPage/accessories.jpeg"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/CategoryPage/computer_peripherals.jpeg",
+      "PackagePath": "staticwebassets/images/CategoryPage/computer_peripherals.jpeg"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/CategoryPage/gaming-PC-or-gaming-laptop.jpeg",
+      "PackagePath": "staticwebassets/images/CategoryPage/gaming-PC-or-gaming-laptop.jpeg"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/CategoryPage/smartphones-and-gadgets.jpeg",
+      "PackagePath": "staticwebassets/images/CategoryPage/smartphones-and-gadgets.jpeg"
+    },
+    {
       "Id": "/Users/aleksandrlukasuk/Projects/TechStore/TechStore/wwwroot/images/about.jpg",
       "PackagePath": "staticwebassets/images/about.jpg"
     },
